@@ -1,0 +1,202 @@
+@media (min-width: 769px) and (max-width: 992px) {
+    .col-l-1 {width: 8.33%; float: left;}
+    .col-l-2 {width: 16.66%; float: left;}
+    .col-l-3 {width: 25%; float: left;}
+    .col-l-4 {width: 33.33%; float: left;}
+    .col-l-5 {width: 41.66%; float: left;}
+    .col-l-6 {width: 50%; float: left;}
+    .col-l-7 {width: 58.33%; float: left;}
+    .col-l-8 {width: 66.66%; float: left;}
+    .col-l-9 {width: 75%; float: left;}
+    .col-l-10 {width: 83.33%; float: left;}
+    .col-l-11 {width: 91.66%; float: left;}
+    .col-l-12 {width: 100%; float: left;}
+    
+    .heading{
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 25px;
+    }
+    .sub-heading{
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 25px;
+        margin: 8px 0px;
+    }
+    .des{
+        font-size: 18px;
+    }
+    #des{
+        font-size: 18px;
+    }
+    p{
+        font-size: 15px;
+        font-weight: 400;
+    }
+    q{
+        font-size: 15px;
+        font-weight: 400; 
+    }
+    .heading-p{
+        padding: 0 0px;
+    }
+    .underline{
+        width: 10%;
+        margin: 13px auto;
+    }
+    .logo-part{
+        text-align: center;
+    }
+    .menu-part ul{
+        text-align: center;
+        padding: 6px;
+    }
+    .menu-part li{
+        margin: 0 4px;
+        padding: 5px;
+    }
+    .menu-part a{
+        font-size: 17px;
+    }
+    .hero-part{
+        padding: 110px 0px;
+    }
+    .hero-part h1{
+        width: 70%;
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .hero-part button{
+        padding: 8px 17px;
+        margin-top: 30px;
+        border-radius: 3px;
+    }
+    .hero-part a{
+        font-size: 17px;
+        font-weight: 600;
+    }
+    /* service section */
+    .service-writting-part{
+        margin: 17px auto;
+        padding: 17px;
+        text-align: center;
+    }
+    .service-box{
+        padding: 0 20px;
+    } 
+    .service-box img{
+        width: 60%;
+        margin-bottom: 15px;
+    }
+    .team{
+        padding: 17px 8px;
+    }
+    .team-writting-part{
+        margin: 17px auto;
+        padding: 17px;
+    }
+    .team-box{
+        padding: 0 9px;
+    }
+    .team img{
+        width: 65%;
+        margin-bottom: 15px;
+    }
+    .team-icon{
+        margin-top:17px ;
+    }
+    .team-icon i{
+        font-size: 17px;
+        padding: 9px;
+        width: 30px;
+    }
+    .skills{
+        padding: 17px;
+    }
+    .skills-writting-part{
+        margin: 17px auto;
+        padding: 17px;
+    }
+    .skills img{
+        width: 55%;
+    }
+    .portfolio{
+        padding: 25px;
+    }
+    .portfolio-writting-part{
+        margin: 17px auto;
+        padding: 17px;
+    }
+    .portfolio-btn-gruop{
+        margin: 17px 0px;
+    }
+    .portfolio-btn-group button{
+        font-size: 17px;
+        padding: 6px 8px;
+        border-radius: 5px;
+        margin: 0px 6px;
+    }
+    .portfolio img{
+        margin: 17px;
+        padding: 9px;
+    }
+    .button{
+        padding: 8px 17px;
+        margin: 30px;
+        border-radius: 5px;
+    }
+    .button a{
+        font-size: 17px;
+    }
+    .about{
+        padding: 17px;
+    }
+    .about-writting-part{
+        margin: 17px auto;
+        padding: 17px;
+    }
+    .about-box-writting{
+        text-align: left;
+    }
+    .about img{
+        width: 60%;
+    }
+    }
+    .contact{
+        padding: 17px;
+    }
+    .contact-writting-part{
+        margin: 17px auto;
+        padding: 17px;
+    }
+    .form1 input[type="text"]{
+        margin-right: 8px;
+        padding: 8px;
+        font-size: 17px;
+    }
+    .form2 input[type="email"]{
+        padding: 8px;
+        font-size: 17px;
+        margin-left: 8px;
+    }
+    .contact-form2-part textarea{
+        padding: 8px;
+        font-size: 17px;
+    }
+    .contact-form2-part input[type="submit"]{
+        font-size: 17px;
+        font-weight: 400;
+        padding: 8px 17px;
+        margin: 40px 0;
+        border-radius: 4px;
+    }
+    footer ul li{
+        margin: 0px 17px;
+        padding: 17px 0;
+    }
+    footer li a{
+        font-size: 17px;
+        font-weight: 400;
+    }
+
+}
